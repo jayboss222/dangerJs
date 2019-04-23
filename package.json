@@ -1,0 +1,23 @@
+{
+  "name": "dangerjs",
+  "version": "1.0.0",
+  "description": "This is the first file of the repo.",
+  "main": "index.js",
+  "dependencies": {
+    "danger": "^7.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayboss222/dangerJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayboss222/dangerJs/issues"
+  },
+  "homepage": "https://github.com/jayboss222/dangerJs#readme"
+}
