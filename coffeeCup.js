@@ -1,0 +1,4 @@
+var coffeeCup = {
+	caffeine: true,
+}
+
