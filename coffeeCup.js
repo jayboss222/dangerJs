@@ -3,4 +3,4 @@ var coffeeCup = {
 	milk: true,
 	foam: false,
 }
-
+const = mugs = ['small', 'medium', 'large']
