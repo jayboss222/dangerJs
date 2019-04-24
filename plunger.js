@@ -1,1 +1,1 @@
-var plunger = ['french press', 'Breville']
+var plunger = ['french press', 'Breville', 'Keurig']
