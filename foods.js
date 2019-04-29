@@ -1,1 +1,1 @@
-const food = ['pizza','apple','ice cream']
+const food = ['pizza','apple pieces','ice cream', 'pineapple']
