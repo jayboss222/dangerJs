@@ -1,1 +1,2 @@
-const beans = ['vanilla', 'organice', 'home made', 'starbucks','savings']
+const beans = ['vanilla', 'organice', 'home made', 'starbucks','savings','fair trade']
+
